@@ -7,7 +7,7 @@ import {
   Users,
   Award
 } from 'lucide-react';
-import profilepic from '../assets/Vaibhav_profile.png'
+import profilepic from '../assets/profile.png'
 
 const OurStory: React.FC = () => {
   const [isVisible, setIsVisible] = useState(false);
